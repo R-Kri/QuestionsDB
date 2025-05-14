@@ -1,0 +1,28 @@
+[
+    {
+      "year": 2022,
+      "shift": "Morning",
+      "subject": "Physics",
+      "topic": "Kinematics",
+      "question_latex": "A car accelerates uniformly from rest at 2 m/s². The distance covered in 5 seconds is:",
+      "option_a": "25 m",
+      "option_b": "50 m",
+      "option_c": "20 m",
+      "option_d": "30 m",
+      "correct_option": "A",
+      "solution_latex": "Using the formula $s = ut + \\frac{1}{2}at^2$ where $u=0$, $a=2$ m/s², $t=5$ s, we get $s = \\frac{1}{2} \\times 2 \\times 5^2 = \\frac{1}{2} \\times 2 \\times 25 = 25$ m."
+    },
+    {
+      "year": 2022,
+      "shift": "Evening",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding",
+      "question_latex": "Which of the following has a coordinate covalent bond?",
+      "option_a": "NaCl",
+      "option_b": "NH₃",
+      "option_c": "H₂O",
+      "option_d": "NH₄⁺",
+      "correct_option": "D",
+      "solution_latex": "In NH₄⁺, the nitrogen shares a lone pair with H⁺ to form a coordinate covalent bond."
+    }
+  ]
